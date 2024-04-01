@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8s1gzq/1IfSCUAOd+PtxWKswCwDF7YeKxI6roBncekV77Cad85AM56JwaxSAi8IygyKfdTm405nt6rkyxvyeCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iw561f\\Desktop\\api\\api\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\8.0.3\\microsoft.aspnetcore.authentication.negotiate.8.0.3.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.3\\microsoft.aspnetcore.connections.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.features\\8.0.3\\microsoft.extensions.features.8.0.3.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\iw561f\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
